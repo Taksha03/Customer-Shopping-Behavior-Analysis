@@ -117,4 +117,4 @@ This project demonstrates an end-to-end data analytics workflow using Python, SQ
 
 ## 📊 Dashboard Preview
 
-![Customer Behavior Dashboard](dashboard/dashboard.png)
+![Customer Behavior Dashboard](dashboard.png)
