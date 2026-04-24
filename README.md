@@ -114,3 +114,7 @@ README.md
 
 ## 🚀 Conclusion
 This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI. It highlights skills in data cleaning, analysis, visualization, and business insight generation.
+
+## 📊 Dashboard Preview
+
+![Customer Behavior Dashboard](dashboard/dashboard.png)
